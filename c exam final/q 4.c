@@ -6,7 +6,7 @@ void main()
 	//program to give a grade from percentage//
 	float per;
 	printf("enter percentage");
-	scanf("%d",&per);
+	scanf("%f",&per);
 	
 	if(per>=90)
 	{
